@@ -1,0 +1,24 @@
+<!DOCTYPE resources [<!ENTITY sv_ip "192.168.43.113">]>
+<resources>
+    <string name="app_name">Contexts</string>
+    <string name="shared_pref_key">demo.com.contexts.sharedprefs.key.123</string>
+    <string name="weather_api">http://api.wunderground.com/api/Insert_Your_API_KEY/geolookup/conditions/forecast/q/</string>
+    <string name="fetch_atms">http://&sv_ip;/contextapp/retrieve.php</string>
+
+    <string name="title_activity_curr_loc">Map</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="city">Current City</string>
+    <string name="country">Current Country</string>
+    <string name="LastUpdateTime">Observation time</string>
+    <string name="celsiusTemp">tempC</string>
+    <string name="fahrenTemp">Temp fah</string>
+    <string name="skies">Skies</string>
+    <string name="humidityLabel">Humidity: </string>
+    <string name="humidity">40%</string>
+    <string name="day1">Day1</string>
+    <string name="day2">Day2</string>
+    <string name="day3">Day 3</string>
+    <string name="title_activity_near_by_atms">Near By Atms</string>
+    <string name="forecast">Forecast</string>
+
+</resources>
